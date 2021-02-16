@@ -51,7 +51,6 @@ export default class HeaderComponent extends React.Component {
 
   _openMenu() {
      navVar.openDrawer();
-    //this.state.scope.props.navigation.openDrawer();
   }
 
   async _pressPictureUpload() {
